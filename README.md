@@ -15,6 +15,3 @@ of state — look when translated into these languages.
 
 All work done is basically renaming variables in classical thermo plus spelling out the
 interpretations. 
-
-We also include an exposition of a “graded second law” in spirit of Munson et
-al, 2025.
