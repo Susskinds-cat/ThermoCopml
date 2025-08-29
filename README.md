@@ -15,3 +15,8 @@ of state — look when translated into these languages.
 
 All work done is basically renaming variables in classical thermo plus spelling out the
 interpretations. 
+
+This is not a direct study of black holes. We are using a simplified model of a black hole
+(developed by researchers working in quantum field theory, general relativity, and quantum gravity) as a teaching
+tool. Our goal is not to analyze real black holes, but to show how thermodynamics provides a framework for
+understanding the ideas behind these models.
